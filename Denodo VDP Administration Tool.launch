@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="denodo4e.launchConfigurationType">
+    <listAttribute key="AUXILIAR_CONFIGURATIONS"/>
+    <intAttribute key="CONNECTION_PORT" value="18000"/>
+    <stringAttribute key="DENODO_APP_PARAMETER" value="Denodo VDP/ITP Server"/>
+    <stringAttribute key="DENODO_HOME_PARAMETER" value="C:\Users\arun\Virtual DataPort Administration Tool of Denodo Platform-8.0"/>
+    <listAttribute key="PROJECTS_PARAMETER">
+        <listEntry value="denodo-mojo-scorer"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ALLOW_TERMINATE" value="true"/>
+</launchConfiguration>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/arun/Documents/Arun/CS_related/mojo-pipeline/mojo2-runtime-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arun/Virtual DataPort Administration Tool of Denodo Platform-8.0/lib/contrib/commons-io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arun/Virtual DataPort Administration Tool of Denodo Platform-8.0/lib/contrib/commons-lang.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arun/Virtual DataPort Administration Tool of Denodo Platform-8.0/lib/vdp-server-core/denodo-vdp-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arun/Virtual DataPort Administration Tool of Denodo Platform-8.0/lib/vdp-client-core/denodo-vdp-admin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arun/Virtual DataPort Administration Tool of Denodo Platform-8.0/lib/vdp-client-core/denodo-vdp-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arun/Virtual DataPort Administration Tool of Denodo Platform-8.0/lib/vdp-client-core/denodo-vdp-parser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arun/Virtual DataPort Administration Tool of Denodo Platform-8.0/lib/vdp-client-core/denodo-vdp-tools.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arun/Virtual DataPort Administration Tool of Denodo Platform-8.0/lib/contrib/ow2-jta-1.1-spec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arun/Downloads/mojo2-runtime-2.6.2-SNAPSHOT-shadow.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
